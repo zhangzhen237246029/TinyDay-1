@@ -1,0 +1,17 @@
+platform :ios, ‘8.0’
+
+target 'TinyDay' do
+    
+    pod 'AFNetworking'
+    pod 'BlocksKit'
+    pod 'iCarousel'
+    pod 'Masonry'
+    pod ‘MBProgressHUD’
+    pod 'MJRefresh'
+    pod 'MLTransition'
+    pod 'WMPageController'
+    # pod 'MWPhotoBrowser'
+    pod ‘YYKit’
+    pod ‘TPKeyboardAvoiding’
+    
+end
